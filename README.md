@@ -1,6 +1,6 @@
 # acme-store
 Pos graduação 
-Esse projeto está sendo desenvolvido para a disciplina de arquitetura e design de software do MBA Full Stack - UNIESP
+Esse projeto está sendo desenvolvido para a disciplina de arquitetura design de software do MBA Full Stack - UNIESP
 
 * ## Contexto Domínio do Problema
 * O projeto refere-se a um simulador de ecommerce, onde um cliente poderá realizar compras de produtos, utilizando a modalidade 
